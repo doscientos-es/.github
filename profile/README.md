@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="brand-banner.svg" alt="doscientos — Creamos herramientas digitales para hacerte facturar más y trabajar menos" width="100%" />
+  <img src="https://raw.githubusercontent.com/doscientos-es/.github/main/profile/brand-banner.svg" alt="doscientos — Creamos herramientas digitales para hacerte facturar más y trabajar menos" width="100%" />
   <br />
   <a href="https://doscientos.es">doscientos.es</a>
   &nbsp;·&nbsp;
