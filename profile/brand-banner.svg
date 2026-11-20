@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">doscientos</title>
+  <desc id="description">Creamos herramientas digitales para hacerte facturar más y trabajar menos.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2a4227" />
+      <stop offset="1" stop-color="#0c110b" />
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#bdff7b" stroke-opacity=".08" />
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="24" fill="url(#background)" />
+  <rect width="1200" height="340" rx="24" fill="url(#grid)" />
+  <circle cx="1050" cy="170" r="215" fill="#bdff7b" fill-opacity=".07" />
+  <circle cx="1080" cy="170" r="147" fill="none" stroke="#bdff7b" stroke-opacity=".24" stroke-width="2" />
+  <circle cx="1080" cy="170" r="102" fill="none" stroke="#bdff7b" stroke-opacity=".18" stroke-width="2" />
+  <circle cx="1080" cy="170" r="56" fill="#bdff7b" fill-opacity=".85" />
+  <text x="76" y="132" fill="#fafafa" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" letter-spacing="-3">doscientos</text>
+  <text x="80" y="190" fill="#bdff7b" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Creamos herramientas digitales</text>
+  <text x="80" y="228" fill="#fafafa" fill-opacity=".88" font-family="Arial, Helvetica, sans-serif" font-size="22">para hacerte facturar más y trabajar menos.</text>
+  <rect x="80" y="264" width="72" height="4" rx="2" fill="#bdff7b" />
+  <text x="80" y="300" fill="#fafafa" fill-opacity=".72" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">SOFTWARE A MEDIDA · PRODUCTO DIGITAL · AUTOMATIZACIÓN</text>
+</svg>
